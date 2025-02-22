@@ -1,4 +1,3 @@
-#test comment
 # Standard library
 import sys
 import re
